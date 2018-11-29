@@ -1,0 +1,20 @@
+.container{
+    display:flex;
+}
+#article_1{
+    border:1px solid blue;
+    flex-direction:row;
+    flex-basis:50%;
+    justify-content: space-between;
+    height:25px;
+    font-size:20px;
+}
+#article_2{
+    border:1px solid red;
+    flex-direction:row;
+    flex-basis:50%;
+    justify-content: space-between;
+    height:25px;
+    font-size:20px;
+}
+
